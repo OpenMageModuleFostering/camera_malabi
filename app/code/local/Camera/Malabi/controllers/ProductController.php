@@ -156,7 +156,7 @@ class Camera_Malabi_ProductController extends Mage_Core_Controller_Front_Action
                 echo json_encode(
                     [
                         'status' => 'fail',
-                        'subscription' => 'malabi-user-not-set',
+                        'subscription' => 'not-available',
                         'message' => 'could not retrieve info, check your Malabi Account'
                     ]
                 );
