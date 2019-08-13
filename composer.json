@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Camera_Malabi",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Automatically remove the background from any image. Grow Sales and make your store look great with Malabi.",
+    "authors": [
+    {
+        "name": "Camera",
+        "email": "info@malabi.co"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
