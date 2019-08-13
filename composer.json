@@ -1,12 +1,12 @@
 {
     "name": "OpenMageModuleFostering/Camera_Malabi",
     "type": "magento-module",
-    "license": "GPL",
+    "license": "Malabi-EULA-and-privacy-policy",
     "homepage": "",
-    "description": "Automatically remove the background from any image. Grow Sales and make your store look great with Malabi.",
+    "description": "Malabi Background Remover will automatically remove the background from any image.",
     "authors": [
     {
-        "name": "Camera",
+        "name": "Ronen",
         "email": "info@malabi.co"
     }
 ],
