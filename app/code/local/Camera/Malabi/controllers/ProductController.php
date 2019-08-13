@@ -10,8 +10,8 @@ class Camera_Malabi_ProductController extends Mage_Core_Controller_Front_Action
 
         $email = $this->getRequest()->getParam('email');
         try {
-            $datas = array('firstName' => 'John',
-                'lastName' => 'Smith',
+            $datas = array('firstName' => '',
+                'lastName' => '',
                 'userEmail' => $email,
                 'userPassword' => 'mag' . rand(11112,99999),
                 'customerId' => '405',
