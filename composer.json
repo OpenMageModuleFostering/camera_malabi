@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Camera_Malabi",
+    "name": "OpenMageModuleFostering\/Camera_Malabi",
     "type": "magento-module",
     "license": "Malabi-EULA-and-privacy-policy",
     "homepage": "",
     "description": "Malabi Background Remover will automatically remove the background from any image.",
     "authors": [
-    {
-        "name": "Ronen",
-        "email": "info@malabi.co"
-    }
-],
+        {
+            "name": "Ronen",
+            "email": "info@malabi.co"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
